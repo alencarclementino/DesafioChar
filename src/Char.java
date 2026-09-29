@@ -1,4 +1,4 @@
-public class Concatenar {
+public class Char {
     public static void main(String[] args) {
         char letra = 's';
         String palavra = "super homem";
